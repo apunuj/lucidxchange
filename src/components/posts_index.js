@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-export default class App extends Component {
+export default class PostsIndex extends Component {
   render() {
     return (
       <div>
-        React simple starter
+        Posts Index
       </div>
     );
   }
